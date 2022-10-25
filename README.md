@@ -9,4 +9,10 @@ result compared to CNN model 0.78. This indicates the importance of transfer lea
 
 Paper https://rcci.uci.cu/?journal=rcci
 
-Experimentation https://www.kaggle.com/code/mfattah
+Experimentation:
+
+https://www.kaggle.com/code/mfattah/inceptionv3
+
+https://www.kaggle.com/code/mfattah/mobilenet
+
+https://www.kaggle.com/code/mfattah/vgg19
